@@ -3,12 +3,14 @@ Getting and Cleaning Data Course Project Code Book
 
 Ioan Vlad, Feb. 2016
 
-This document amends the UCI HAR codebook provided in files:
+This document amends the original UCI HAR codebook provided in files:
+
 - activity_labels.txt
 - features_info.txt
 - features.txt
 - README.txt
-that are found in the UCI HAR zip archive, in order to describe processed data files UCI_HAR_merged.txt and UCI_HAR_merged_averaged.txt created by running run_analysis.R. 
+
+that are included in the UCI HAR zip archive. These amendments are necessary in order to describe processed data files UCI_HAR_merged.txt and UCI_HAR_merged_averaged.txt created by running run_analysis.R for the purposes of this class project. 
 
 The first two columns in the processed data files are SubjectID and Activity. The Activity names have been modified from the original activity_labels.txt by removing the space.
 
