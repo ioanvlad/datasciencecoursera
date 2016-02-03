@@ -15,3 +15,5 @@ This project cleans and processes data collected from the accelerometers from th
 - writes the raw codebook describing the correspondence between the tidified and the original feature names
 
 This script requires the data.table package.
+
+Modifications of columns names in project result files are described in file [CodeBook.md](https://github.com/ioanvlad/datasciencecoursera/blob/master/CodeBook.md).
