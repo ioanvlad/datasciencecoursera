@@ -13,7 +13,6 @@ unzip(zip_local)
 
 # Directory names
 
-#dir.data  <- "pilot"
 dir.data <- "UCI HAR Dataset"
 dir.test  <- file.path(dir.data, "test" )
 dir.train <- file.path(dir.data, "train")
